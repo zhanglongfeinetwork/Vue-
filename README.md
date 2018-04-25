@@ -1,14 +1,14 @@
-Vue-caidaokoujiao
-Ğ¡ÊÔÅ£µ¶vue2 + vuex + webpack + es6 £¬×Ô¼ºÊµÔÚÊÇ¸ö²Ëb 
-//ÕâÊÇÂÖ²¥²å¼ş
-vue-awesome-swiper
-//ÏÂÀ­Í¼±ê¼ÓÔØ¸ü¶à²å¼ş
-vue-infinite-scroll
-//ÕâÊÇ¼ÓÔØÍ¼±ê²å¼ş
-vue-lazyload
-//ÕâÊÇxhr´«Êä²å¼ş
-vue-resource
-//ÕâÊÇÂ·ÓÉ²å¼ş
-vue-router
-//¼ì²â×´Ì¬²å¼ş
-vuex
+å°è¯•ç‰›åˆ€vue2 + vuex + webpack + es6 ï¼Œè‡ªå·±å®åœ¨æ˜¯ä¸ªèœb
+<br>
+//è¿™æ˜¯è½®æ’­æ’ä»¶<br>
+vue-awesome-swiper<br>
+//ä¸‹æ‹‰å›¾æ ‡åŠ è½½æ›´å¤šæ’ä»¶<br>
+vue-infinite-scroll<br>
+//è¿™æ˜¯åŠ è½½å›¾æ ‡æ’ä»¶<br>
+vue-lazyload<br>
+//è¿™æ˜¯xhrä¼ è¾“æ’ä»¶<br>
+vue-resource<br>
+//è¿™æ˜¯è·¯ç”±æ’ä»¶<br>
+vue-router<br>
+//æ£€æµ‹çŠ¶æ€æ’ä»¶<br>
+vuex<br>
