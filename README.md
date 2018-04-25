@@ -1,21 +1,14 @@
-# cainiao
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Vue-caidaokoujiao
+小试牛刀vue2 + vuex + webpack + es6 ，自己实在是个菜b 
+//这是轮播插件
+vue-awesome-swiper
+//下拉图标加载更多插件
+vue-infinite-scroll
+//这是加载图标插件
+vue-lazyload
+//这是xhr传输插件
+vue-resource
+//这是路由插件
+vue-router
+//检测状态插件
+vuex
